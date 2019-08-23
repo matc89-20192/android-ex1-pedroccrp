@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">exercicio1</string>
+    <string name="label_default_text">Alô, Mundo!</string>
+    <string name="btnCumprimentar_default_text">Cumprimentar</string>
 </resources>
